@@ -10,8 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            /// 11111111111111
-            // abc Code was added in GitHub. abc
+            // Code was added in GitHub.
             // Code was edited in GitHub.
 
             // Code was added in VS.
@@ -19,10 +18,7 @@ namespace ConsoleApp1
             // Code to call Feature1
 
             // Code to call Feature2
-            
-            // cdefg
-            // Hi World!
-            /// 555555555555
+
         }
     }
 }
